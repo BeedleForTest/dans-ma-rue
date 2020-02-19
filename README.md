@@ -1,4 +1,4 @@
-# Dans Ma Rue
+# Dans Ma Rue - Gildas Philippe, Emile Tireau
 
 L'objectif de cet exerice est d'analyser les données de l'application mobile `DansMaRue - Paris` avec `Elasticsearch`.
 
@@ -393,7 +393,7 @@ Dans Kibana, créez un dashboard qui permet de visualiser :
 
 Faites une capture d'écran du dashboard et ajoutez le au dépôt afin qu'il soit visible dans ce readme :
 
-![](https://via.placeholder.com/800x600.png?text=Votre+Dashboard+Ici)
+![](Dashboard.png)
 
 ## Pour rendre le travail
 
